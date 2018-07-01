@@ -79,25 +79,7 @@ get_header(); ?>
 	</script>
 	<div class='divider'>
 	</div>
-	<h4 class='explainer'>
-	说明：
-	</h4>
-	<ul class="new_tools_list">
-	<li>
-	隐写术算是一种加密技术，权威说法是“隐写术是一门关于信息隐藏的技巧与科学，所谓信息隐藏指的是不让除预期的接收者之外的任何人知晓信息的传递事件或者信息的内容。
-	</li>
-	<li>
-	这个工具可以在图片中隐藏文字信息，并且不影响图片的显示，只有特殊的工具才能解密出图片的内容。
-	</li>
-	<li>
-	图片隐写术的应用价值很广泛，比如程序员之间的表白（不限男女），不失为一种浪漫的方式~
-	</li>
-	<li>
-	而且还被用于版权维护证明~
-	</li>
-	</ul>
-	<div class='divider'>
-	</div>
+
 
                         <?php if(kratos_option('page_like_donate')||kratos_option('page_share')){ ?>
                         <footer class="kratos-entry-footer clearfix">
