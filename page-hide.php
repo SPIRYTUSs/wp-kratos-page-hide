@@ -73,9 +73,9 @@ get_header(); ?>
 	<div class="strong" id="messageDecoded">
 	</div>
 	</div>
-	<script src='http://chs.clovef.top/demo/js/sjcl.js' type='text/javascript'>
+	<script src='http://chs.clovef.top/demo/js/test2.js' type='text/javascript'>
 	</script>
-	<script src='http://chs.clovef.top/demo/js/main.js' type='text/javascript'>
+	<script src='http://chs.clovef.top/demo/js/test.js' type='text/javascript'>
 	</script>
 	<div class='divider'>
 	</div>
